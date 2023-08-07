@@ -10,7 +10,14 @@ a {
     background-color: #ffffff;
   }
    h1{font-family: 'Noto Sans JP', sans-serif;
-    font-size: 10px;
+    font-size: 15px;
+    width: 85vw;
+    color:#7702FF;
+    margin-left:7.5vw;
+    margin-top:5vw;
+    margin-bottom:2vw;}
+h2{font-family: 'Noto Sans JP', sans-serif;
+    font-size: 8px;
     width: 85vw;
     color:#7702FF;
     margin-left:7.5vw;
