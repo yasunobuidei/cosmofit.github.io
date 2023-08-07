@@ -12,6 +12,9 @@ a {
   p {
     color:#7702FF ;
     text-decoration: none;
+      width: 85vw;
+  display: block; 
+  margin: auto;
   }
 
 
@@ -113,7 +116,7 @@ a {
  @media screen  and ( max-width:768px) {
  
      
-  #name{width: 23vw;
+  #name{width: 60vw;
     display: block; 
     margin-left:2.5vw;
     margin-top: 3vw;
