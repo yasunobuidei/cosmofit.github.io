@@ -9,13 +9,13 @@ a {
   body {
     background-color: #ffffff;
   }
-  p {
-    color:#7702FF ;
-    text-decoration: none;
-      width: 85vw;
-  display: block; 
-  margin: auto;
-  }
+   h1{font-family: 'Noto Sans JP', sans-serif;
+    
+    width: 85vw;
+    color:black;
+    margin-left:7.5vw;
+    margin-top:5vw;
+    margin-bottom:2vw;}
 
 
 @media screen and (min-width:768px) {
